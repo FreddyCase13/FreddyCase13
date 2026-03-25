@@ -37,7 +37,7 @@ Currently leading the development of **LongBot**, an algorithmic crypto trading 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/) *(coming soon)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/freddy-case-75a7692b6/)
 - - 🐙 [GitHub](https://github.com/FreddyCase13)
  
   - ---
