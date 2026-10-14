@@ -1,12 +1,11 @@
-# Hi, I'm Freddy Case 👋
+# Hi, I'm Freddy Case
 
 **Computer Science @ SNHU** | Concentration in Software Engineering
-**Founder of Long Co.** | **Lead Developer** of [LongBot](https://github.com/FreddyCase13) – a scalable cryptocurrency trading SaaS
 📍 Plymouth, MA
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a software engineer focused on building production-grade systems that scale. My work sits at the intersection of **cloud architecture**, **algorithmic trading**, **IoT**, **AI/ML**, and **full-stack development**. I bridge high-level technical leadership with hands-on engineering — from designing distributed systems to shipping working code.
 
@@ -14,7 +13,7 @@ Founder of **Long Co.**, a tech-focused company currently in development. Curren
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** C++ · Java · Python · JavaScript
 **Frameworks & Tools:** Spring Boot · Android SDK · Dash · OpenGL · MEAN Stack (MongoDB, Express, Angular, Node.js)
@@ -23,16 +22,14 @@ Founder of **Long Co.**, a tech-focused company currently in development. Curren
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | [CS-465 Full Stack MEAN App](https://github.com/FreddyCase13/CS-465) | Full stack travel booking application with Angular frontend, Express/Node backend, and MongoDB | MEAN Stack |
 | [IoT Smart Thermostat Controller](https://github.com/FreddyCase13/IoT-Smart-Thermostat-Controller) | Python-based smart thermostat prototype featuring I2C sensor data parsing and GPIO hardware interrupts | Python, IoT |
 | [Deep Q-Learning Pathfinder](https://github.com/FreddyCase13/Deep_Q_Learning_Pathfinder) | Deep Q Network training an autonomous agent in a dynamic pathfinding environment using reinforcement learning | Python, AI/ML |
-| [modular-opengl-3d-scene](https://github.com/FreddyCase13/modular-opengl-3d-scene) | 3D desk scene with Phong shading, projected textures & interactive camera | C++, OpenGL |
 | [TruStock Android App](https://github.com/FreddyCase13/TruStock_Android_App) | Warehouse inventory management app with SQLite & automated SMS alerts | Java, Android |
-| [Grazioso Salvare Dashboard](https://github.com/FreddyCase13/grazioso-salvare-dashboard) | Interactive rescue dog data dashboard with MongoDB & geolocation mapping | Python, Dash, MongoDB |
 | [Artemis Financial Secure Software](https://github.com/FreddyCase13/ArtemisFinancialSecureSoftware) | Vulnerability assessment & secure REST API with SHA-256, TLS | Java, Spring Boot |
 | [Grand Strand Systems Mobile App](https://github.com/FreddyCase13/GrandStrandSystemsMobileApp) | Android app demonstrating CRUD operations and mobile UX patterns | Java, Android |
 
