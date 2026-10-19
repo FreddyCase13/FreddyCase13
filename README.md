@@ -1,46 +1,33 @@
 # Hi, I'm Freddy Case
 
-**Computer Science @ SNHU** | Concentration in Software Engineering
-📍 Plymouth, MA
+I'm finishing a B.S. in Computer Science at Southern New Hampshire University in December 2026. I have a 4.0 GPA and made the President's List. I want to work toward ML and AI engineering. Right now I'm open to entry-level software engineering roles.
 
----
+## Featured: Capstone ePortfolio
 
-## About Me
+**[freddycase13.github.io](https://freddycase13.github.io)** ([repo](https://github.com/FreddyCase13/FreddyCase13.github.io))
 
-I'm a software engineer focused on building production-grade systems that scale. My work sits at the intersection of **cloud architecture**, **algorithmic trading**, **IoT**, **AI/ML**, and **full-stack development**. I bridge high-level technical leadership with hands-on engineering — from designing distributed systems to shipping working code.
+This is my CS 499 capstone. It covers three areas: software design, algorithms and data structures, and databases. Each artifact has the original code, the enhanced code, and a narrative on what I changed. It also has a code review video and my professional self-assessment.
 
-Founder of **Long Co.**, a tech-focused company currently in development. Currently leading the development of **LongBot**, an algorithmic crypto trading platform built for scale, reliability, and performance. I continue to expand my education at SNHU, completing coursework in full-stack development, IoT systems, and AI/machine learning.
+## Projects
 
----
+- [cs410-reverse-engineering](https://github.com/FreddyCase13/cs410-reverse-engineering): Rebuilt a compiled C++ program from its x86-64 disassembly with GDB, then found eight security flaws and fixed six of them.
+- [secure-coding-cpp-portfolio](https://github.com/FreddyCase13/secure-coding-cpp-portfolio): C++ code that prevents buffer overflows and SQL injection, with exception handling, unit tests, and encryption.
+- [Deep_Q_Learning_Pathfinder](https://github.com/FreddyCase13/Deep_Q_Learning_Pathfinder): A Deep Q-Network agent in Python and Keras that reached a perfect win rate on an 8x8 grid.
+- [IoT-Smart-Thermostat-Controller](https://github.com/FreddyCase13/IoT-Smart-Thermostat-Controller): An event-driven Raspberry Pi thermostat using an I2C temperature sensor and GPIO interrupts.
+- [modular-opengl-3d-scene](https://github.com/FreddyCase13/modular-opengl-3d-scene): A 3D desk scene in C++ and OpenGL with Phong shading, multiple lights, and a movable camera.
+- [ArtemisFinancialSecureSoftware](https://github.com/FreddyCase13/ArtemisFinancialSecureSoftware): A security review of a Spring Boot REST API, fixed with SHA-256 checksums and HTTPS/TLS.
+- [TruStock_Android_App](https://github.com/FreddyCase13/TruStock_Android_App): A Java warehouse inventory app with SQLite that sends an SMS alert when stock runs low.
+- [grazioso-salvare-dashboard](https://github.com/FreddyCase13/grazioso-salvare-dashboard): A Python Dash dashboard on MongoDB with a reusable CRUD class, filters, a map, and charts.
+- [CourseBinarySearchTree](https://github.com/FreddyCase13/CourseBinarySearchTree): A C++ course planner that loads CSV data into a binary search tree.
 
-## Tech Stack
+**LongBot (private):** A personal project. It's a Python crypto trading algorithm that runs on Google Cloud and trades live through the Coinbase API.
 
-**Languages:** C++ · Java · Python · JavaScript
-**Frameworks & Tools:** Spring Boot · Android SDK · Dash · OpenGL · MEAN Stack (MongoDB, Express, Angular, Node.js)
-**Databases:** MongoDB · SQLite
-**Concepts:** System Design · Cloud Architecture · Algorithmic Trading · Data Structures & Algorithms · Secure Software Development · IoT · Reinforcement Learning
+## Skills
 
----
+Python · Java · C++ · SQL · JavaScript · Google Cloud
 
-## Featured Projects
+## Contact
 
-| Project | Description | Tech |
-|---|---|---|
-| [CS-465 Full Stack MEAN App](https://github.com/FreddyCase13/CS-465) | Full stack travel booking application with Angular frontend, Express/Node backend, and MongoDB | MEAN Stack |
-| [IoT Smart Thermostat Controller](https://github.com/FreddyCase13/IoT-Smart-Thermostat-Controller) | Python-based smart thermostat prototype featuring I2C sensor data parsing and GPIO hardware interrupts | Python, IoT |
-| [Deep Q-Learning Pathfinder](https://github.com/FreddyCase13/Deep_Q_Learning_Pathfinder) | Deep Q Network training an autonomous agent in a dynamic pathfinding environment using reinforcement learning | Python, AI/ML |
-| [TruStock Android App](https://github.com/FreddyCase13/TruStock_Android_App) | Warehouse inventory management app with SQLite & automated SMS alerts | Java, Android |
-| [Artemis Financial Secure Software](https://github.com/FreddyCase13/ArtemisFinancialSecureSoftware) | Vulnerability assessment & secure REST API with SHA-256, TLS | Java, Spring Boot |
-| [Grand Strand Systems Mobile App](https://github.com/FreddyCase13/GrandStrandSystemsMobileApp) | Android app demonstrating CRUD operations and mobile UX patterns | Java, Android |
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/freddy-case-75a7692b6/)
-- - 🐙 [GitHub](https://github.com/FreddyCase13)
-  - - 🏅 [Merit Page](https://meritpages.com/freddycase13)
-   
-    - ---
-
-    *"Bridging the gap between high-level leadership and technical excellence."*
+- [LinkedIn](https://www.linkedin.com/in/freddy-case-75a7692b6/)
+- [GitHub](https://github.com/FreddyCase13)
+- [Merit Page](https://meritpages.com/freddycase13)
