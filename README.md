@@ -1,46 +1,44 @@
-# Hi, I'm Freddy Case
+# Hey, I'm Freddy
 
-**Computer Science @ SNHU** | Concentration in Software Engineering
-📍 Plymouth, MA
+I've finished my coursework for a B.S. in Computer Science at SNHU (software engineering concentration), and my degree is conferred in December 2026. I have a 4.0 GPA. I'm looking for entry-level software engineering or full stack roles, and long term I'm heading toward ML/AI engineering.
 
----
+Plymouth, MA
 
-## About Me
+## Featured: Capstone ePortfolio
 
-I'm a software engineer focused on building production-grade systems that scale. My work sits at the intersection of **cloud architecture**, **algorithmic trading**, **IoT**, **AI/ML**, and **full-stack development**. I bridge high-level technical leadership with hands-on engineering — from designing distributed systems to shipping working code.
+**[freddycase13.github.io](https://freddycase13.github.io)** ([repo](https://github.com/FreddyCase13/FreddyCase13.github.io))
 
-Founder of **Long Co.**, a tech-focused company currently in development. Currently leading the development of **LongBot**, an algorithmic crypto trading platform built for scale, reliability, and performance. I continue to expand my education at SNHU, completing coursework in full-stack development, IoT systems, and AI/machine learning.
+My CS 499 capstone. It covers software design, algorithms and data structures, and databases. Each artifact has the original code, the enhanced code, and a narrative on what I changed. It also has a code review video and my self-assessment.
 
----
+## What I'm working on
 
-## Tech Stack
+- **LongBot:** a personal project. It's a Python crypto trading bot that runs on Google Cloud and trades live through the Coinbase API. The code is private, but I share the build on [X](https://x.com/FreddyCase13).
+- **ML:** most of my ML work so far is the Deep Q-Learning project below.
 
-**Languages:** C++ · Java · Python · JavaScript
-**Frameworks & Tools:** Spring Boot · Android SDK · Dash · OpenGL · MEAN Stack (MongoDB, Express, Angular, Node.js)
-**Databases:** MongoDB · SQLite
-**Concepts:** System Design · Cloud Architecture · Algorithmic Trading · Data Structures & Algorithms · Secure Software Development · IoT · Reinforcement Learning
+## Tech
 
----
+**Languages:** Python · C++ · Java · SQL · JavaScript
+**Frameworks and tools:** MEAN (MongoDB, Express, Angular, Node) · Spring Boot · Android SDK · Dash · OpenGL · Google Cloud · GDB
+**Data:** MongoDB (NoSQL) · SQLite
+**Focus:** Full stack web · AI/ML · Reinforcement learning · Secure software · IoT
 
-## Featured Projects
+## Projects
 
-| Project | Description | Tech |
+| Project | What it is | Tech |
 |---|---|---|
-| [CS-465 Full Stack MEAN App](https://github.com/FreddyCase13/CS-465) | Full stack travel booking application with Angular frontend, Express/Node backend, and MongoDB | MEAN Stack |
-| [IoT Smart Thermostat Controller](https://github.com/FreddyCase13/IoT-Smart-Thermostat-Controller) | Python-based smart thermostat prototype featuring I2C sensor data parsing and GPIO hardware interrupts | Python, IoT |
-| [Deep Q-Learning Pathfinder](https://github.com/FreddyCase13/Deep_Q_Learning_Pathfinder) | Deep Q Network training an autonomous agent in a dynamic pathfinding environment using reinforcement learning | Python, AI/ML |
-| [TruStock Android App](https://github.com/FreddyCase13/TruStock_Android_App) | Warehouse inventory management app with SQLite & automated SMS alerts | Java, Android |
-| [Artemis Financial Secure Software](https://github.com/FreddyCase13/ArtemisFinancialSecureSoftware) | Vulnerability assessment & secure REST API with SHA-256, TLS | Java, Spring Boot |
-| [Grand Strand Systems Mobile App](https://github.com/FreddyCase13/GrandStrandSystemsMobileApp) | Android app demonstrating CRUD operations and mobile UX patterns | Java, Android |
+| [CS 410 Reverse Engineering](https://github.com/FreddyCase13/cs410-reverse-engineering) | Rebuilt a compiled program in C++ from its x86-64 disassembly, then found 8 security flaws and fixed 6 | C++, GDB, x86-64 |
+| [Travlr Getaways (CS 465)](https://github.com/FreddyCase13/CS-465) | Full stack travel booking app. Express customer site and an Angular admin SPA share a MongoDB REST API with JWT auth | MEAN |
+| [Deep Q-Learning Pathfinder](https://github.com/FreddyCase13/Deep_Q_Learning_Pathfinder) | A Deep Q Network that trains an agent to find its way through a changing environment | Python, AI/ML |
+| [Secure Coding C++ Portfolio](https://github.com/FreddyCase13/secure-coding-cpp-portfolio) | Buffer overflow and SQL injection defense, exception handling, unit tests, and encryption | C++ |
+| [Artemis Financial Secure Software](https://github.com/FreddyCase13/ArtemisFinancialSecureSoftware) | Vulnerability assessment and a hardened REST API using SHA-256 and TLS | Java, Spring Boot |
+| [IoT Smart Thermostat Controller](https://github.com/FreddyCase13/IoT-Smart-Thermostat-Controller) | Thermostat prototype that parses I2C sensor data and uses GPIO hardware interrupts | Python, IoT |
+| [Modular OpenGL 3D Scene](https://github.com/FreddyCase13/modular-opengl-3d-scene) | 3D desk scene with Phong shading, projected textures, and a camera you can move | C++, OpenGL |
+| [Grazioso Salvare Dashboard](https://github.com/FreddyCase13/grazioso-salvare-dashboard) | Rescue dog dashboard with MongoDB data, filtering, and a geolocation map | Python, Dash, MongoDB |
+| [TruStock Android App](https://github.com/FreddyCase13/TruStock_Android_App) | Warehouse inventory app with SQLite and automatic SMS alerts | Java, Android |
+| [Course Binary Search Tree](https://github.com/FreddyCase13/CourseBinarySearchTree) | Course planner that loads CSV data into a binary search tree | C++ |
 
----
+## Find me
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/freddy-case-75a7692b6/)
-- - 🐙 [GitHub](https://github.com/FreddyCase13)
-  - - 🏅 [Merit Page](https://meritpages.com/freddycase13)
-   
-    - ---
-
-    *"Bridging the gap between high-level leadership and technical excellence."*
+- [LinkedIn](https://www.linkedin.com/in/freddy-case-75a7692b6/)
+- [X @FreddyCase13](https://x.com/FreddyCase13)
+- [Merit Page](https://meritpages.com/freddycase13)
